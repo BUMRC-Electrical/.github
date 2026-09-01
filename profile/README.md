@@ -1,3 +1,9 @@
+<!-- .github/profile/README.md -->
+
+<div align="center">
+    <img src="/img/mrc-logo.png" height="200">
+</div>
+
 # BU Mars Rover Club Electrical Team
 
 Welcome to the Electrical Team Github. This organization contains all of the members of the Electrical Team as well as some other Team Leads.
