@@ -14,7 +14,7 @@ An organization is a collection of repositories that allows for greater collabor
 One such repository is the [kicad-template](https://github.com/BUMRC-Electrical/kicad-template).
 
 <!-- Administrators -->
-## People
+## Administrators
 <table>
   <tr>
     <td valign="middle" width="80">
@@ -40,9 +40,28 @@ One such repository is the [kicad-template](https://github.com/BUMRC-Electrical/
   </tr>
 </table>
 
+<!-- Members -->
+<!--## Members
+<table>
+  <tr>
+    <td valign="middle" width="80">
+      <a href="https://github.com/USERNAME">
+        <img src="https://github.com/USERNAME.png?size=80" width="72" />
+      </a>
+    </td>
+    <td valign="middle">
+      <b><a href="https://github.com/USERNAME">NAME</a></b> &nbsp;·&nbsp;ROLE<br/>
+      <sub>@USERNAME</sub>
+    </td>
+  </tr>
+</table>-->
+
 <!-- Conventions -->
+
 ## Organization Conventions
 
-Softwares used are KiCad 10.0 and OnShape.
+Softwares used are [KiCad 10.0](https://www.kicad.org/) and [OnShape](https://www.onshape.com/en/).
 
-Each PCB should be in its own repository and should be based on the template if possible.
+Each PCB design should be in its own repository and should be based on the template if possible.
+
+Each Repository should be thoroughly documented, the PCB template has at least 4 README.md files located in subfolders that help explain the purpose of the project and document related materials.
