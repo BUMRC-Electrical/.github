@@ -1,7 +1,7 @@
 <!-- .github/profile/README.md -->
 
 <div align="center">
-    <img src="/img/mrc-logo.png" height="200">
+    <img src="/img/mrc-logo.png" width="800">
 </div>
 
 # BU Mars Rover Club Electrical Team
