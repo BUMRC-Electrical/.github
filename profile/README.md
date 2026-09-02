@@ -15,7 +15,7 @@ One such repository is the [kicad-template](https://github.com/BUMRC-Electrical/
 ## People
 
 Logan Fick - Electrical Team Lead
-[![Logan Fick's GitHub](https://github.com/weasalcrafter)](https://github.com/weasalcrafter)
+[![GitHub Profile Card](https://vercel.app)](https://github.com/WeasalCrafter)
 
 ## Organization Conventions
 
