@@ -17,7 +17,7 @@ One such repository is the [kicad-template](https://github.com/BUMRC-Electrical/
 ## People
 <table>
   <tr>
-    <td width="80">
+    <td valign="middle" width="80">
       <a href="https://github.com/weasalcrafter">
         <img src="https://github.com/weasalcrafter.png?size=80" width="72" />
       </a>
@@ -28,7 +28,7 @@ One such repository is the [kicad-template](https://github.com/BUMRC-Electrical/
     </td>
   </tr>
   <tr>
-    <td width="80">
+    <td valign="middle" width="80">
       <a href="https://github.com/bstyles351">
         <img src="https://github.com/bstyles351.png?size=80" width="72" />
       </a>
