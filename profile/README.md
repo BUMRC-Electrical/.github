@@ -12,6 +12,11 @@ An organization is a collection of repositories that allows for greater collabor
 
 One such repository is the [kicad-template](https://github.com/BUMRC-Electrical/kicad-template).
 
+## 
+
+Logan Fick - Electrical Team Lead
+[https://github.com/weasalcrafter](https://github.com/weasalcrafter)
+
 ## Organization Conventions
 
 Softwares used are KiCad 10.0 and OnShape.
