@@ -63,17 +63,16 @@ Each Repository should be thoroughly documented, the PCB template has at least 4
 ## TODO
 
 ### PCBs that need to be finalized/made:
-1. 24v-24v Converter
-2. 24v-12v Converter
-3. 24v-5v Converter
-4. 24v-3.3v Converter
+1. 24v to 24v Converter
+2. 24v to 12v Converter
+3. 24v to 5v Converter
+4. 24v to 3.3v Converter
 
 <!--
 
 questionable boards:
 
 5. Life Detection (?)
-6. Battery Management (?)
 
 -->
 
