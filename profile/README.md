@@ -14,12 +14,30 @@ One such repository is the [kicad-template](https://github.com/BUMRC-Electrical/
 
 ## People
 
-Logan Fick (weasalcrafter) - Electrical Team Lead
-[<img src="https://github.com/weasalcrafter.png?size=60" width="60" />](https://github.com/weasalcrafter)
-
-Bobby Styles (bstyles351) - Club President
-[<img src="https://github.com/bstyles351.png?size=60" width="60" />](https://github.com/bstyles351)
-
+<table>
+  <tr>
+    <td width="80">
+      <a href="https://github.com/weasalcrafter">
+        <img src="https://github.com/weasalcrafter.png?size=80" width="72" />
+      </a>
+    </td>
+    <td valign="middle">
+      <b><a href="https://github.com/weasalcrafter">Logan Fick</a></b> &nbsp;·&nbsp; Electrical Team Lead<br/>
+      <sub>@weasalcrafter</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="80">
+      <a href="https://github.com/bstyles351">
+        <img src="https://github.com/bstyles351.png?size=80" width="72" />
+      </a>
+    </td>
+    <td valign="middle">
+      <b><a href="https://github.com/bstyles351">Bobby Styles</a></b> &nbsp;·&nbsp; Club President<br/>
+      <sub>@bstyles351</sub>
+    </td>
+  </tr>
+</table>
 ## Organization Conventions
 
 Softwares used are KiCad 10.0 and OnShape.
