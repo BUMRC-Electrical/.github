@@ -4,6 +4,7 @@
     <img src="/img/mrc-logo.png" width="400">
 </div>
 
+<!-- Introduction -->
 # BU Mars Rover Club Electrical Team
 
 Welcome to the Electrical Team Github. This organization contains all of the members of the Electrical Team as well as some other Team Leads.
@@ -12,8 +13,8 @@ An organization is a collection of repositories that allows for greater collabor
 
 One such repository is the [kicad-template](https://github.com/BUMRC-Electrical/kicad-template).
 
+<!-- Administrators -->
 ## People
-
 <table>
   <tr>
     <td width="80">
@@ -38,6 +39,8 @@ One such repository is the [kicad-template](https://github.com/BUMRC-Electrical/
     </td>
   </tr>
 </table>
+
+<!-- Conventions -->
 ## Organization Conventions
 
 Softwares used are KiCad 10.0 and OnShape.
