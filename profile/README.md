@@ -95,6 +95,7 @@ BETTER DOCUMENTATION
 ### Drone Workflow
 1. Research Microcontrollers and Software stacks
 2. Research Drone Size / Propeller Size
+3. Research Sensor Selection
 
 ### Comms Work that Needs to be Done:
 1. More field testing
