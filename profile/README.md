@@ -40,6 +40,15 @@ One such repository is the [kicad-template](https://github.com/BUMRC-Electrical/
   </tr>
 </table>
 
+## Subteams
+
+Each member is assigned to at least one subteam, and may work in multiple. Work and tasks are divided up to the subteams accordingly.
+
+1. Power Converters
+2. Comms and Controls
+3. Drone
+4. Electro-Mechanical
+
 <!-- Members -->
 <!--## Members
 <table>
