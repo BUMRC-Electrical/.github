@@ -67,8 +67,30 @@ Each Repository should be thoroughly documented, the PCB template has at least 4
 2. 24v-12v Converter
 3. 24v-5v Converter
 4. 24v-3.3v Converter
+
+<!--
+
+questionable boards:
+
 5. Life Detection (?)
 6. Battery Management (?)
+
+-->
+
+
+<!--
+
+things to change:
+
+Make the PCBs larger, use bigger components, use biggeer traces and copper pours
+
+Add indicator LEDs
+
+Round off edges, use plated mounting holes
+
+BETTER DOCUMENTATION
+
+-->
 
 ### Drone Workflow
 1. Research Microcontrollers and Software stacks
