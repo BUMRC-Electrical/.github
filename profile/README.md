@@ -40,6 +40,7 @@ One such repository is the [kicad-template](https://github.com/BUMRC-Electrical/
   </tr>
 </table>
 
+<!-- SUBTEAMS -->
 ## Subteams
 
 Each member is assigned to at least one subteam, and may work in multiple. Work and tasks are divided up to the subteams accordingly.
@@ -50,7 +51,6 @@ Each member is assigned to at least one subteam, and may work in multiple. Work 
 4. Electro-Mechanical
 
 <!-- Conventions -->
-
 ## Organization Conventions
 
 Softwares used are [KiCad 10.0](https://www.kicad.org/) and [OnShape](https://www.onshape.com/en/).
@@ -59,6 +59,7 @@ Each PCB design should be in its own repository and should be based on the templ
 
 Each Repository should be thoroughly documented, the PCB template has at least 4 README.md files located in subfolders that help explain the purpose of the project and document related materials.
 
+<!-- TO-DO -->
 ## TODO
 
 ### PCBs that need to be finalized/made:
@@ -69,7 +70,15 @@ Each Repository should be thoroughly documented, the PCB template has at least 4
 5. Life Detection (?)
 6. Battery Management (?)
 
+### Drone Workflow
+1. Research Microcontrollers and Software stacks
+2. Research Drone Size / Propeller Size
+
 ### Comms Work that Needs to be Done:
 1. More field testing
 2. Link strengthening
 3. Research additional hardware
+
+### Other Miscelaneous Projects:
+1. Rover LEDs
+2. Remake the E-Stop cover panel out of sheet metal
