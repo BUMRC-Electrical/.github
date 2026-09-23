@@ -13,6 +13,10 @@ An organization is a collection of repositories that allows for greater collabor
 
 One such repository is the [kicad-template](https://github.com/BUMRC-Electrical/kicad-template).
 
+<!-- TIMELINE -->
+## Overarching Timeline
+The timeline for the team during Fall 2026 is a `Github Project`, and can be found [here](https://github.com/orgs/BUMRC-Electrical/projects/1). Read the README there to understand task conventions.
+
 <!-- Administrators -->
 ## Administrators
 <table>
