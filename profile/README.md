@@ -86,9 +86,32 @@ Each member is assigned to at least one subteam, and may work in multiple. Work 
   </tr>
 </table>
 
-2. Comms and Controls
-3. Drone
-4. Electro-Mechanical
+### Drone
+<table>
+  <tr>
+    <td valign="middle" width="80">
+      <a href="https://github.com/MrGrian">
+        <img src="https://github.com/MrGrian.png?size=80" width="72" />
+      </a>
+    </td>
+    <td valign="middle">
+      <b><a href="https://github.com/MrGrian">Nehemiah Chao</a></b><br/>
+      <sub>@MrGrian</sub>
+    </td>
+  </tr>
+  <tr>
+    <td valign="middle" width="80">
+      <a href="https://github.com/eric-greene1 ">
+        <img src="https://github.com/eric-greene1 .png?size=80" width="72" />
+      </a>
+    </td>
+    <td valign="middle">
+      <b><a href="https://github.com/eric-greene1 ">Eric Greene</a></b><br/>
+      <sub>@eric-greene1 </sub>
+    </td>
+  </tr>
+</table>
+
 
 <!-- Conventions -->
 ## Organization Conventions
