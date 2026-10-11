@@ -73,6 +73,17 @@ Each member is assigned to at least one subteam, and may work in multiple. Work 
       <sub>@roccomeausky</sub>
     </td>
   </tr>
+  <tr>
+    <td valign="middle" width="80">
+      <a href="https://github.com/TretiakovaAnna">
+        <img src="https://github.com/TretiakovaAnna.png?size=80" width="72" />
+      </a>
+    </td>
+    <td valign="middle">
+      <b><a href="https://github.com/TretiakovaAnna">Anna Tretiakova</a></b><br/>
+      <sub>@TretiakovaAnna</sub>
+    </td>
+  </tr>
 </table>
 
 2. Comms and Controls
