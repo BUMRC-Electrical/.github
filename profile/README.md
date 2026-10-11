@@ -58,7 +58,7 @@ Each member is assigned to at least one subteam, and may work in multiple. Work 
       </a>
     </td>
     <td valign="middle">
-      <b><a href="https://github.com/ed-yu">Edward Yu</a></b> &nbsp;·&nbsp;PCB Design<br/>
+      <b><a href="https://github.com/ed-yu">Edward Yu</a></b><br/>
       <sub>@ed-yu</sub>
     </td>
   </tr>
@@ -69,7 +69,7 @@ Each member is assigned to at least one subteam, and may work in multiple. Work 
       </a>
     </td>
     <td valign="middle">
-      <b><a href="https://github.com/roccomeausky">Rocco Bourgeois-Meausky</a></b> &nbsp;·&nbsp;PCB Design<br/>
+      <b><a href="https://github.com/roccomeausky">Rocco Bourgeois-Meausky</a></b><br/>
       <sub>@roccomeausky</sub>
     </td>
   </tr>
