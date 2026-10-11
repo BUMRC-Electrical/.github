@@ -45,7 +45,32 @@ One such repository is the [kicad-template](https://github.com/BUMRC-Electrical/
 
 Each member is assigned to at least one subteam, and may work in multiple. Work and tasks are divided up to the subteams accordingly.
 
-1. Power Converters
+### Power Converters
+<table>
+  <tr>
+    <td valign="middle" width="80">
+      <a href="https://github.com/ed-yu">
+        <img src="https://github.com/ed-yu.png?size=80" width="72" />
+      </a>
+    </td>
+    <td valign="middle">
+      <b><a href="https://github.com/ed-yu">Edward Yu</a></b> &nbsp;·&nbsp;PCB Design<br/>
+      <sub>@ed-yu</sub>
+    </td>
+  </tr>
+  <tr>
+    <td valign="middle" width="80">
+      <a href="https://github.com/roccomeausky">
+        <img src="https://github.com/roccomeausky.png?size=80" width="72" />
+      </a>
+    </td>
+    <td valign="middle">
+      <b><a href="https://github.com/roccomeausky">Rocco Bourgeois-Meausky</a></b> &nbsp;·&nbsp;PCB Design<br/>
+      <sub>@roccomeausky</sub>
+    </td>
+  </tr>
+</table>
+
 2. Comms and Controls
 3. Drone
 4. Electro-Mechanical
