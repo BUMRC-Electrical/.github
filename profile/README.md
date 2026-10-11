@@ -101,12 +101,12 @@ Each member is assigned to at least one subteam, and may work in multiple. Work 
   </tr>
   <tr>
     <td valign="middle" width="80">
-      <a href="https://github.com/eric-greene1 ">
-        <img src="https://github.com/eric-greene1 .png?size=80" width="72" />
+      <a href="https://github.com/eric-greene1">
+        <img src="https://github.com/eric-greene1.png?size=80" width="72" />
       </a>
     </td>
     <td valign="middle">
-      <b><a href="https://github.com/eric-greene1 ">Eric Greene</a></b><br/>
+      <b><a href="https://github.com/eric-greene1">Eric Greene</a></b><br/>
       <sub>@eric-greene1 </sub>
     </td>
   </tr>
